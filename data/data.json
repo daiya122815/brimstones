@@ -1,0 +1,14 @@
+[{
+    "map":"Ascent",
+    "Incendiary":[
+        {"x":811,"y":344,"loca":[{"x":703,"y":564,"image":["Ablack1.png","Ablack1-1.png"]},{"x":947,"y":501,"image":["Ablack2.png","Ablack2-1.png"]},{"x":547,"y":684,"image":["Ablack3.png","Ablack3-1.png"]}]},
+        {"x":835,"y":243,"loca":[{"x":637,"y":489,"image":["Ablack4.png","Ablack4-1.png"]},{"x":703,"y":564,"image":["Ablack1.png","Ablack2-1.png"]}]},
+        {"x":873,"y":319,"loca":[{"x":547,"y":684,"image":["Ablack3.png","Ablack3-2.png"]},{"x":703,"y":564,"image":["Ablack1.png","Ablack1-3.png"]}]},
+        {"x":793,"y":316,"loca":[{"x":634,"y":216,"image":["Ablack5.png","Ablack5-1.png"]},{"x":947,"y":501,"image":["Ablack2.png","Ablack2-2.png"]}]},
+        {"x":929,"y":485,"loca":[{"x":719,"y":287,"image":["Ablack6.png","Ablack6-1.png"]}]},
+        {"x":265,"y":352,"loca":[{"x":730,"y":288,"image":["Ablack7.png","Ablack7-1.png"]},{"x":500,"y":43,"image":["Ablack11.png","Ablack11-1.png"]}]},
+        {"x":192,"y":283,"loca":[{"x":261,"y":475,"image":["Ablack9.png","Ablack9-1.png"]},{"x":401,"y":288,"image":["Ablack8.png","Ablack8-1.png"]}]},
+        {"x":154,"y":328,"loca":[{"x":223,"y":534,"image":["Ablack10.png","Ablack10-1.png"]}]},
+        {"x":262,"y":209,"loca":[{"x":500,"y":43 ,"image":["Ablack11.png","Ablack11-2.png"]}]}
+    ]
+}]
