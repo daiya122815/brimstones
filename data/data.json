@@ -27,5 +27,7 @@
 },
 {
     "map":"Sunset",
-    "Incendiary":[]
+    "Incendiary":[
+        {"x":789,"y":327,"loca":[{"x":413,"y":401,"image":["S1.png","S1-1.png"]},{"x":590,"y":645,"image":["S2.png","S2-1.png"]},{"x":631,"y":300,"image":["S3.png","S3-1.png"]},{"x":750,"y":648,"image":["S4.png","S4-1.png"]},{"x":965,"y":436,"image":["S5.png","S5-1.png"]},{"x":648,"y":137,"image":["S6.png","S6-1.png"]},{"x":680,"y":820,"image":["S7.png","S7-1.png"]}]}
+    ]
 }]
