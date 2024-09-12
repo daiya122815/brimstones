@@ -1,14 +1,31 @@
 [{
     "map":"Ascent",
     "Incendiary":[
-        {"x":811,"y":344,"loca":[{"x":703,"y":564,"image":["Ablack1.png","Ablack1-1.png"]},{"x":947,"y":501,"image":["Ablack2.png","Ablack2-1.png"]},{"x":547,"y":684,"image":["Ablack3.png","Ablack3-1.png"]}]},
-        {"x":835,"y":243,"loca":[{"x":637,"y":489,"image":["Ablack4.png","Ablack4-1.png"]},{"x":703,"y":564,"image":["Ablack1.png","Ablack2-1.png"]}]},
-        {"x":873,"y":319,"loca":[{"x":547,"y":684,"image":["Ablack3.png","Ablack3-2.png"]},{"x":703,"y":564,"image":["Ablack1.png","Ablack1-3.png"]}]},
+        {"x":811,"y":344,"loca":[{"x":703,"y":564,"image":["Ablack1.png","Ablack1-1.png"]},{"x":947,"y":501,"image":["Ablack2.png","Ablack2-1.png"]},{"x":547,"y":684,"image":["Ablack3.png","Ablack3-1.png"]},{"x":759,"y":148,"image":["Ablack12.png","Ablack12-1.png"]},{"x":631,"y":296,"image":["Ablack13.png","Ablack13-1.png"]},{"x":630,"y":140,"image":["Ablack14.png","Ablack14-1.png"]}]},
+        {"x":835,"y":243,"loca":[{"x":637,"y":489,"image":["Ablack4.png","Ablack4-1.png"]}]},
+        {"x":873,"y":319,"loca":[{"x":547,"y":684,"image":["Ablack3.png","Ablack3-2.png"]},{"x":703,"y":564,"image":["Ablack1.png","Ablack1-3.png"]},{"x":637,"y":489,"image":["Ablack4.png","Ablack4-2.png"]},{"x":396,"y":555,"image":["Ablack15.png","Ablack15-1.png"]}]},
         {"x":793,"y":316,"loca":[{"x":634,"y":216,"image":["Ablack5.png","Ablack5-1.png"]},{"x":947,"y":501,"image":["Ablack2.png","Ablack2-2.png"]}]},
         {"x":929,"y":485,"loca":[{"x":719,"y":287,"image":["Ablack6.png","Ablack6-1.png"]}]},
         {"x":265,"y":352,"loca":[{"x":730,"y":288,"image":["Ablack7.png","Ablack7-1.png"]},{"x":500,"y":43,"image":["Ablack11.png","Ablack11-1.png"]}]},
-        {"x":192,"y":283,"loca":[{"x":261,"y":475,"image":["Ablack9.png","Ablack9-1.png"]},{"x":401,"y":288,"image":["Ablack8.png","Ablack8-1.png"]}]},
+        {"x":192,"y":283,"loca":[{"x":261,"y":475,"image":["Ablack9.png","Ablack9-1.png"]},{"x":401,"y":288,"image":["Ablack8.png","Ablack8-1.png"]},{"x":395,"y":322,"image":["Ablack16.png","Ablack16-1.png"]}]},
         {"x":154,"y":328,"loca":[{"x":223,"y":534,"image":["Ablack10.png","Ablack10-1.png"]}]},
-        {"x":262,"y":209,"loca":[{"x":500,"y":43 ,"image":["Ablack11.png","Ablack11-2.png"]}]}
+        {"x":262,"y":209,"loca":[{"x":500,"y":43 ,"image":["Ablack11.png","Ablack11-2.png"]}]},
+        {"x":900,"y":347,"loca":[{"x":637,"y":489,"image":["Ablack4.png","Ablack4-3.png"]},{"x":703,"y":564,"image":["Ablack1.png","Ablack1-4.png"]}]},
+        {"x":850,"y":447,"loca":[{"x":630,"y":209,"image":["Ablack17.png","Ablack17-1.png"]},{"x":383,"y":152,"image":["Ablack18.png","Ablack18-1.png"]}]},
+        {"x":340,"y":370,"loca":[{"x":669,"y":137,"image":["Ablack19.png","Ablack19-1.png"]}]},
+        {"x":254,"y":381,"loca":[{"x":374,"y":154,"image":["Ablack20.png","Ablack20-1.png"]}]}
     ]
+},
+{
+    "map":"Bind",
+    "Incendiary":[
+        {"x":679,"y":348,"loca":[{"x":684,"y":505,"image":["B1.png","B1-1.png"]},{"x":572,"y":545,"image":["B2.png","B2-1.png"]},{"x":602,"y":545,"image":["B3.png","B3-1.png"]},{"x":510,"y":520,"image":["B4.png","B4-1.png"]},{"x":868,"y":576,"image":["B5.png","B5-1.png"]},{"x":623,"y":350,"image":["B6.png","B6-1.png"]},{"x":769,"y":232,"image":["B17.png","B17-1.png"]}]},
+        {"x":759,"y":340,"loca":[{"x":868,"y":576,"image":["B5.png","B5-2.png"]},{"x":572,"y":545,"image":["B2.png","B2-1.png"]},{"x":715,"y":570,"image":["B7.png","B7-1.png"]},{"x":571,"y":347,"image":["B8.png","B8-1.png"]}]},
+        {"x":265,"y":300,"loca":[{"x":147,"y":305,"image":["B9.png","B9-1.png"]},{"x":207,"y":219,"image":["B10.png","B10-1.png"]},{"x":350,"y":213,"image":["B11.png","B11-1.png"]},{"x":148,"y":446,"image":["B12.png","B12-1.png"]},{"x":178,"y":552,"image":["B13.png","B13-1.png"]},{"x":251,"y":620,"image":["B14.png","B14-1.png"]},{"x":423,"y":450,"image":["B15.png","B15-1.png"]}]},
+        {"x":310,"y":302,"loca":[{"x":300,"y":460,"image":["B16.png","B16-1.png"]},{"x":423,"y":450,"image":["B15.png","B15-2.png"]}]}
+    ]
+},
+{
+    "map":"Sunset",
+    "Incendiary":[]
 }]

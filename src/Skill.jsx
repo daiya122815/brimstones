@@ -95,7 +95,7 @@ function Skill() {
                     height="100%"
                     preserveAspectRatio="none"
                     className="mapdata"
-                    transform={itemName!="Lotus"?"rotate(90, 500, 500)":"rotate(0,500,500)"} 
+                    transform={itemName!="Lotus"&&itemName!="Bind" ?"rotate(90, 500, 500)":"rotate(0,500,500)"} 
                 />
                 {selectedMapData.map((item, index) => (
                     <g key={index}>
