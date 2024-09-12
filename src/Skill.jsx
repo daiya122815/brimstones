@@ -130,9 +130,11 @@ function Skill() {
                 />
             </svg>
             <div>
-                {select["image"] && select["image"].map((item, index) => (
-                    <img key={index} src={`./data/${item}`} alt="Selected" />
-                ))}
+                {select["image"] && select["image"].map((item, index) => {
+                    console.log(item)
+                    return(
+                    <img key={index} src={`/data/${item}`} alt="Selected" />
+                )})}
             </div>
             <div>
                 <h3>Clicked Coordinates:</h3>
